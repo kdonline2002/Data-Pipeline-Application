@@ -23,7 +23,7 @@ def run_timer(minutes):
         time.sleep(1)
         
         # Decrease total seconds
-        total_seconds -= 1
+        total_seconds -= 10
 
     print("\nTime's up!")
 
