@@ -1,4 +1,4 @@
-# DATA PIPELINE
+#  ELT (Extract, Load, Transform) DATA PIPELINE
 ## Overview
 A Python-based ELT (Extract, Load, Transform) data pipeline for importing Excel datasets into SQL Server, 
 enriching the data using third-party APIs, and producing reporting datasets for Power BI and Streamlit dashboards.
