@@ -104,7 +104,7 @@ The application provides an end-to-end workflow from raw data ingestion through 
 ### Tkinter Import Window
 <img src="docs/screenshots/DataPipelineMain01.png" alt="QuoteMaintenance" style="border: 1px solid black;">
 
-### Streamlit Dashboard 
+### Streamlit JSON Review Dashboard 
 <img src="docs/screenshots/StreamLitGeo01.png" alt="QuoteMaintenance" style="border: 1px solid black;">
  
 ### Power BI Dashboard 
